@@ -5,6 +5,8 @@ program ini digunakan untuk mengecek berat badan ideal.
 #Screenshoot
 <br>
 ![screenshoot1](https://s13.postimg.org/dqavudsgn/BB1.png)
+<br>
+gambar diatas merupakan hasil dari inputan, jika diklik button cobalagi maka data-data yang sudah diinputkan oleh user sebelumnya akan terhapus secara otomatis.
 <br><br>
 #Identitas
 Nama : Erron Lolha Aprillia<br>
